@@ -1,0 +1,18 @@
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X O 5    1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+1
+XXXXXXXXXXXX                                                                    
+X O        X                                                                    
+X   5    1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+2
+XXOXXXXXXXXX                                                                    
+X          X                                                                    
+X   5    1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+Die Schlange ist in die Wand gelaufen!

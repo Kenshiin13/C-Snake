@@ -1,0 +1,114 @@
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X O 5    1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+1
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X  O5    1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+2
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X   5    1 X                                                                    
+X  O       X                                                                    
+XXXXXXXXXXXX                                                                    
+3
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X   5    1 X                                                                    
+X   O      X                                                                    
+XXXXXXXXXXXX                                                                    
+4
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X   5    1 X                                                                    
+X    O     X                                                                    
+XXXXXXXXXXXX                                                                    
+5
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X   5O   1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+6
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X   5 O  1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+7
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X   5  O 1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+8
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X   5   O1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+9
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X   5    O X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+10
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X   5   OO X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+11
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X   5   OO X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+12
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X   5   OO X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+13
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X   5   OO X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+14
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X   5   OO X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+15
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X   5  OO  X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+16
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X   5 OO   X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+17
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X   5OO    X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+18
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X   OO     X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+Gewonnen!

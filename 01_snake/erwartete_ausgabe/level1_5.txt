@@ -1,0 +1,78 @@
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X O 5    1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+1
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X  O5    1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+2
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X O 5    1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+3
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X  O5    1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+4
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X O 5    1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+5
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X   5    1 X                                                                    
+X O        X                                                                    
+XXXXXXXXXXXX                                                                    
+6
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X O 5    1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+7
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+XO  5    1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+8
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X O 5    1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+9
+XXXXXXXXXXXX                                                                    
+X O        X                                                                    
+X   5    1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+10
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X O 5    1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+11
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+XO  5    1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+12
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+O   5    1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+Die Schlange ist in die Wand gelaufen!

@@ -1,0 +1,480 @@
+XXXXXXXXXXXXX                                                                   
+X 2OX 1 X 2 X                                                                   
+X7X   X8 8X X                                                                   
+X   X   X 8 X                                                                   
+XX1XX XXXXXXX                                                                   
+X   X   X   X                                                                   
+X X   X2X   X                                                                   
+X 8 X   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+1
+XXXXXXXXXXXXX                                                                   
+X 2 X 1 X 2 X                                                                   
+X7XO  X8 8X X                                                                   
+X   X   X 8 X                                                                   
+XX1XX XXXXXXX                                                                   
+X   X   X   X                                                                   
+X X   X2X   X                                                                   
+X 8 X   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+2
+XXXXXXXXXXXXX                                                                   
+X 2 X 1 X 2 X                                                                   
+X7X O X8 8X X                                                                   
+X   X   X 8 X                                                                   
+XX1XX XXXXXXX                                                                   
+X   X   X   X                                                                   
+X X   X2X   X                                                                   
+X 8 X   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+3
+XXXXXXXXXXXXX                                                                   
+X 2 X 1 X 2 X                                                                   
+X7X  OX8 8X X                                                                   
+X   X   X 8 X                                                                   
+XX1XX XXXXXXX                                                                   
+X   X   X   X                                                                   
+X X   X2X   X                                                                   
+X 8 X   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+4
+XXXXXXXXXXXXX                                                                   
+X 2 XO1 X 2 X                                                                   
+X7X   X8 8X X                                                                   
+X   X   X 8 X                                                                   
+XX1XX XXXXXXX                                                                   
+X   X   X   X                                                                   
+X X   X2X   X                                                                   
+X 8 X   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+5
+XXXXXXXXXXXXX                                                                   
+X 2 X O X 2 X                                                                   
+X7X   X8 8X X                                                                   
+X   X   X 8 X                                                                   
+XX1XX XXXXXXX                                                                   
+X   X   X   X                                                                   
+X X   X2X   X                                                                   
+X 8 X   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+6
+XXXXXXXXXXXXX                                                                   
+X 2 XOO X 2 X                                                                   
+X7X   X8 8X X                                                                   
+X   X   X 8 X                                                                   
+XX1XX XXXXXXX                                                                   
+X   X   X   X                                                                   
+X X   X2X   X                                                                   
+X 8 X   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+7
+XXXXXXXXXXXXX                                                                   
+X 2 XO  X 2 X                                                                   
+X7X  OX8 8X X                                                                   
+X   X   X 8 X                                                                   
+XX1XX XXXXXXX                                                                   
+X   X   X   X                                                                   
+X X   X2X   X                                                                   
+X 8 X   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+8
+XXXXXXXXXXXXX                                                                   
+X 2 X   X 2 X                                                                   
+X7X OOX8 8X X                                                                   
+X   X   X 8 X                                                                   
+XX1XX XXXXXXX                                                                   
+X   X   X   X                                                                   
+X X   X2X   X                                                                   
+X 8 X   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+9
+XXXXXXXXXXXXX                                                                   
+X 2 X   X 2 X                                                                   
+X7XOO X8 8X X                                                                   
+X   X   X 8 X                                                                   
+XX1XX XXXXXXX                                                                   
+X   X   X   X                                                                   
+X X   X2X   X                                                                   
+X 8 X   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+10
+XXXXXXXXXXXXX                                                                   
+X 2OX   X 2 X                                                                   
+X7XO  X8 8X X                                                                   
+X   X   X 8 X                                                                   
+XX1XX XXXXXXX                                                                   
+X   X   X   X                                                                   
+X X   X2X   X                                                                   
+X 8 X   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+11
+XXXXXXXXXXXXX                                                                   
+X OOX   X 2 X                                                                   
+X7X   X8 8X X                                                                   
+X   X   X 8 X                                                                   
+XX1XX XXXXXXX                                                                   
+X   X   X   X                                                                   
+X X   X2X   X                                                                   
+X 8 X   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+12
+XXXXXXXXXXXXX                                                                   
+XOOOX   X 2 X                                                                   
+X7X   X8 8X X                                                                   
+X   X   X 8 X                                                                   
+XX1XX XXXXXXX                                                                   
+X   X   X   X                                                                   
+X X   X2X   X                                                                   
+X 8 X   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+13
+XXXXXXXXXXXXX                                                                   
+XOOOX   X 2 X                                                                   
+XOX   X8 8X X                                                                   
+X   X   X 8 X                                                                   
+XX1XX XXXXXXX                                                                   
+X   X   X   X                                                                   
+X X   X2X   X                                                                   
+X 8 X   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+14
+XXXXXXXXXXXXX                                                                   
+XOOOX   X 2 X                                                                   
+XOX   X8 8X X                                                                   
+XO  X   X 8 X                                                                   
+XX1XX XXXXXXX                                                                   
+X   X   X   X                                                                   
+X X   X2X   X                                                                   
+X 8 X   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+15
+XXXXXXXXXXXXX                                                                   
+XOOOX   X 2 X                                                                   
+XOX   X8 8X X                                                                   
+XOO X   X 8 X                                                                   
+XX1XX XXXXXXX                                                                   
+X   X   X   X                                                                   
+X X   X2X   X                                                                   
+X 8 X   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+16
+XXXXXXXXXXXXX                                                                   
+XOOOX   X 2 X                                                                   
+XOX   X8 8X X                                                                   
+XOO X   X 8 X                                                                   
+XXOXX XXXXXXX                                                                   
+X   X   X   X                                                                   
+X X   X2X   X                                                                   
+X 8 X   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+17
+XXXXXXXXXXXXX                                                                   
+XOOOX   X 2 X                                                                   
+XOX   X8 8X X                                                                   
+XOO X   X 8 X                                                                   
+XXOXX XXXXXXX                                                                   
+X O X   X   X                                                                   
+X X   X2X   X                                                                   
+X 8 X   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+18
+XXXXXXXXXXXXX                                                                   
+XOOOX   X 2 X                                                                   
+XOX   X8 8X X                                                                   
+XOO X   X 8 X                                                                   
+XXOXX XXXXXXX                                                                   
+XOO X   X   X                                                                   
+X X   X2X   X                                                                   
+X 8 X   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+19
+XXXXXXXXXXXXX                                                                   
+XOOOX   X 2 X                                                                   
+XOX   X8 8X X                                                                   
+XOO X   X 8 X                                                                   
+XXOXX XXXXXXX                                                                   
+XOO X   X   X                                                                   
+XOX   X2X   X                                                                   
+X 8 X   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+20
+XXXXXXXXXXXXX                                                                   
+XOOOX   X 2 X                                                                   
+XOX   X8 8X X                                                                   
+XOO X   X 8 X                                                                   
+XXOXX XXXXXXX                                                                   
+XOO X   X   X                                                                   
+XOX   X2X   X                                                                   
+XO8 X   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+21
+XXXXXXXXXXXXX                                                                   
+XOOOX   X 2 X                                                                   
+XOX   X8 8X X                                                                   
+XOO X   X 8 X                                                                   
+XXOXX XXXXXXX                                                                   
+XOO X   X   X                                                                   
+XOX   X2X   X                                                                   
+XOO X   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+22
+XXXXXXXXXXXXX                                                                   
+XOOOX   X 2 X                                                                   
+XOX   X8 8X X                                                                   
+XOO X   X 8 X                                                                   
+XXOXX XXXXXXX                                                                   
+XOO X   X   X                                                                   
+XOX   X2X   X                                                                   
+XOOOX   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+23
+XXXXXXXXXXXXX                                                                   
+XOOOX   X 2 X                                                                   
+XOX   X8 8X X                                                                   
+XOO X   X 8 X                                                                   
+XXOXX XXXXXXX                                                                   
+XOO X   X   X                                                                   
+XOXO  X2X   X                                                                   
+XOOOX   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+24
+XXXXXXXXXXXXX                                                                   
+XOOOX   X 2 X                                                                   
+XOX   X8 8X X                                                                   
+XOO X   X 8 X                                                                   
+XXOXX XXXXXXX                                                                   
+XOO X   X   X                                                                   
+XOXOO X2X   X                                                                   
+XOOOX   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+25
+XXXXXXXXXXXXX                                                                   
+XOOOX   X 2 X                                                                   
+XOX   X8 8X X                                                                   
+XOO X   X 8 X                                                                   
+XXOXX XXXXXXX                                                                   
+XOO X   X   X                                                                   
+XOXOOOX2X   X                                                                   
+XOOOX   X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+26
+XXXXXXXXXXXXX                                                                   
+XOOOX   X 2 X                                                                   
+XOX   X8 8X X                                                                   
+XOO X   X 8 X                                                                   
+XXOXX XXXXXXX                                                                   
+XOO X   X   X                                                                   
+XOXOOOX2X   X                                                                   
+XOOOXO  X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+27
+XXXXXXXXXXXXX                                                                   
+XOOOX   X 2 X                                                                   
+XOX   X8 8X X                                                                   
+XOO X   X 8 X                                                                   
+XXOXX XXXXXXX                                                                   
+XOO X   X   X                                                                   
+XOXOOOX2X   X                                                                   
+XOOOXOO X   X                                                                   
+XXXXXXXXXXXXX                                                                   
+28
+XXXXXXXXXXXXX                                                                   
+XOOOX   X 2 X                                                                   
+XOX   X8 8X X                                                                   
+XOO X   X 8 X                                                                   
+XXOXX XXXXXXX                                                                   
+XOO X   X   X                                                                   
+XOXOOOX2X   X                                                                   
+XOOOXOOOX   X                                                                   
+XXXXXXXXXXXXX                                                                   
+29
+XXXXXXXXXXXXX                                                                   
+XOOOX   X 2 X                                                                   
+XOX   X8 8X X                                                                   
+XOO X   X 8 X                                                                   
+XXOXX XXXXXXX                                                                   
+XOO X   X   X                                                                   
+XOXOOOXOX   X                                                                   
+XOOOXOOOX   X                                                                   
+XXXXXXXXXXXXX                                                                   
+30
+XXXXXXXXXXXXX                                                                   
+XOOOX   X 2 X                                                                   
+XOX   X8 8X X                                                                   
+XOO X   X 8 X                                                                   
+XXOXX XXXXXXX                                                                   
+XOO X  OX   X                                                                   
+XOXOOOXOX   X                                                                   
+XOOOXOOOX   X                                                                   
+XXXXXXXXXXXXX                                                                   
+31
+XXXXXXXXXXXXX                                                                   
+XOOOX   X 2 X                                                                   
+XOX   X8 8X X                                                                   
+XOO X   X 8 X                                                                   
+XXOXX XXXXXXX                                                                   
+XOO X OOX   X                                                                   
+XOXOOOXOX   X                                                                   
+XOOOXOOOX   X                                                                   
+XXXXXXXXXXXXX                                                                   
+32
+XXXXXXXXXXXXX                                                                   
+XOO X   X 2 X                                                                   
+XOX   X8 8X X                                                                   
+XOO X   X 8 X                                                                   
+XXOXX XXXXXXX                                                                   
+XOO XOOOX   X                                                                   
+XOXOOOXOX   X                                                                   
+XOOOXOOOX   X                                                                   
+XXXXXXXXXXXXX                                                                   
+33
+XXXXXXXXXXXXX                                                                   
+XO  X   X 2 X                                                                   
+XOX   X8 8X X                                                                   
+XOO X   X 8 X                                                                   
+XXOXXOXXXXXXX                                                                   
+XOO XOOOX   X                                                                   
+XOXOOOXOX   X                                                                   
+XOOOXOOOX   X                                                                   
+XXXXXXXXXXXXX                                                                   
+34
+XXXXXXXXXXXXX                                                                   
+X   X   X 2 X                                                                   
+XOX   X8 8X X                                                                   
+XOO XO  X 8 X                                                                   
+XXOXXOXXXXXXX                                                                   
+XOO XOOOX   X                                                                   
+XOXOOOXOX   X                                                                   
+XOOOXOOOX   X                                                                   
+XXXXXXXXXXXXX                                                                   
+35
+XXXXXXXXXXXXX                                                                   
+X   X   X 2 X                                                                   
+X X  OX8 8X X                                                                   
+XOO XO  X 8 X                                                                   
+XXOXXOXXXXXXX                                                                   
+XOO XOOOX   X                                                                   
+XOXOOOXOX   X                                                                   
+XOOOXOOOX   X                                                                   
+XXXXXXXXXXXXX                                                                   
+36
+XXXXXXXXXXXXX                                                                   
+X   XO  X 2 X                                                                   
+X X  OX8 8X X                                                                   
+X O XO  X 8 X                                                                   
+XXOXXOXXXXXXX                                                                   
+XOO XOOOX   X                                                                   
+XOXOOOXOX   X                                                                   
+XOOOXOOOX   X                                                                   
+XXXXXXXXXXXXX                                                                   
+37
+XXXXXXXXXXXXX                                                                   
+X   XOO X 2 X                                                                   
+X X  OX8 8X X                                                                   
+X   XO  X 8 X                                                                   
+XXOXXOXXXXXXX                                                                   
+XOO XOOOX   X                                                                   
+XOXOOOXOX   X                                                                   
+XOOOXOOOX   X                                                                   
+XXXXXXXXXXXXX                                                                   
+38
+XXXXXXXXXXXXX                                                                   
+X   XOOOX 2 X                                                                   
+X X  OX8 8X X                                                                   
+X   XO  X 8 X                                                                   
+XX XXOXXXXXXX                                                                   
+XOO XOOOX   X                                                                   
+XOXOOOXOX   X                                                                   
+XOOOXOOOX   X                                                                   
+XXXXXXXXXXXXX                                                                   
+39
+XXXXXXXXXXXXX                                                                   
+X   XOOOX 2 X                                                                   
+X X  OXO 8X X                                                                   
+X   XO  X 8 X                                                                   
+XX XXOXXXXXXX                                                                   
+XO  XOOOX   X                                                                   
+XOXOOOXOX   X                                                                   
+XOOOXOOOX   X                                                                   
+XXXXXXXXXXXXX                                                                   
+40
+XXXXXXXXXXXXX                                                                   
+X   XOOOX 2 X                                                                   
+X X  OXOO8X X                                                                   
+X   XO  X 8 X                                                                   
+XX XXOXXXXXXX                                                                   
+XO  XOOOX   X                                                                   
+XOXOOOXOX   X                                                                   
+XOOOXOOOX   X                                                                   
+XXXXXXXXXXXXX                                                                   
+41
+XXXXXXXXXXXXX                                                                   
+X   XOOOX 2 X                                                                   
+X X  OXOOOX X                                                                   
+X   XO  X 8 X                                                                   
+XX XXOXXXXXXX                                                                   
+XO  XOOOX   X                                                                   
+XOXOOOXOX   X                                                                   
+XOOOXOOOX   X                                                                   
+XXXXXXXXXXXXX                                                                   
+42
+XXXXXXXXXXXXX                                                                   
+X   XOOOXO2 X                                                                   
+X X  OXOOOX X                                                                   
+X   XO  X 8 X                                                                   
+XX XXOXXXXXXX                                                                   
+XO  XOOOX   X                                                                   
+XOXOOOXOX   X                                                                   
+XOOOXOOOX   X                                                                   
+XXXXXXXXXXXXX                                                                   
+43
+XXXXXXXXXXXXX                                                                   
+X   XOOOXOO X                                                                   
+X X  OXOOOX X                                                                   
+X   XO  X 8 X                                                                   
+XX XXOXXXXXXX                                                                   
+XO  XOOOX   X                                                                   
+XOXOOOXOX   X                                                                   
+XOOOXOOOX   X                                                                   
+XXXXXXXXXXXXX                                                                   
+44
+XXXXXXXXXXXXX                                                                   
+X   XOOOXOOOX                                                                   
+X X  OXOOOX X                                                                   
+X   XO  X 8 X                                                                   
+XX XXOXXXXXXX                                                                   
+XO  XOOOX   X                                                                   
+XOXOOOXOX   X                                                                   
+XOOOXOOOX   X                                                                   
+XXXXXXXXXXXXX                                                                   
+45
+XXXXXXXXXXXXX                                                                   
+X   XOOOXOOOX                                                                   
+X X  OXOOOXOX                                                                   
+X   XO  X 8 X                                                                   
+XX XXOXXXXXXX                                                                   
+XO  XOOOX   X                                                                   
+XOXOOOXOX   X                                                                   
+XOOOXOOOX   X                                                                   
+XXXXXXXXXXXXX                                                                   
+46
+XXXXXXXXXXXXX                                                                   
+X   XOOOXOOOX                                                                   
+X X  OXOOOXOX                                                                   
+X   XO  X 8OX                                                                   
+XX XXOXXXXXXX                                                                   
+XO  XOOOX   X                                                                   
+XOXOOOXOX   X                                                                   
+XOOOXOOOX   X                                                                   
+XXXXXXXXXXXXX                                                                   
+47
+XXXXXXXXXXXXX                                                                   
+X   XOOOXOOOX                                                                   
+X X  OXOOOXOX                                                                   
+X   XO  X OOX                                                                   
+XX XXOXXXXXXX                                                                   
+XO  XOOOX   X                                                                   
+XOXOOOXOX   X                                                                   
+XOOOXOOOX   X                                                                   
+XXXXXXXXXXXXX                                                                   
+Gewonnen!

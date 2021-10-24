@@ -1,0 +1,22 @@
+                     XXXXXXXXXXXXXXXXXXXXXXXXXXXXX                              
+                     X                           X                              
+                     X     2   3            2    X                              
+                     X   XXXXXXXXXXXXX           X                              
+                     X 1 X           XXX         X                              
+                     X   XXXXXXXXX     XX        X                              
+                     X           XX     X        X                              
+                     X       O    X     X   2    X                              
+                     X    4     XXX     X        X                              
+                     X         XX       XXX      X                              
+                     XXXXXXXXXXXX         X      X                              
+                        X     X           X      X                              
+                        X     X         XXX      X                              
+                        X     XXX       X        X                              
+                        X  4    X       X    2   X                              
+                        X       XXXXXXXXX        X                              
+                        X                        X                              
+                        XXXXXXXXXXXXXXXXXXXXXXXX X                              
+                                               X X                              
+                                             XXX X                              
+                                             X1  X                              
+                                             XXXXX                              

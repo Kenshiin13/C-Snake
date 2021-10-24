@@ -1,0 +1,48 @@
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X O 5    1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+1
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X  O5    1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+2
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X   O    1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+3
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X   OO   1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+4
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X   OOO  1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+5
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X   OOOO 1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+6
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X   OOOOO1 X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+7
+XXXXXXXXXXXX                                                                    
+X          X                                                                    
+X   OOOOOO X                                                                    
+X          X                                                                    
+XXXXXXXXXXXX                                                                    
+Gewonnen!

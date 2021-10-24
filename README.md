@@ -4,7 +4,7 @@ CLI Arguments: snake inputStream outputStream levelFile
 
 To stick to the stdin and stdout streams but change the level file you may use "-" to pass an empty argument. 
 
-snake - - level/2.txt 
+snake - - level/2.txt <- Runs the second level file in the stdin and stdout streams.
 
 
 
